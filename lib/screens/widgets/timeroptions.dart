@@ -34,7 +34,7 @@ class timerOptions extends StatelessWidget {
               height: 50,
               decoration: int.parse(time) == provider.selectedTime
                   ? BoxDecoration(
-                      color: Colors.white,
+                      color: const Color.fromARGB(255, 212, 117, 188),
                       borderRadius: BorderRadius.circular(15))
                   : BoxDecoration(
                       border: Border.all(width: 3, color: Colors.white30),

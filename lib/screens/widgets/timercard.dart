@@ -50,7 +50,7 @@ class TimerCard extends StatelessWidget {
             ),
             const Text(
               ':',
-              style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),
             ),
             const SizedBox(
               width: 15,

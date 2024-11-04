@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pomodoro_project/screens/timerservice.dart';
 import 'package:provider/provider.dart';
+import 'package:lottie/lottie.dart';
 
 import 'screens/homeScreen.dart';
 
